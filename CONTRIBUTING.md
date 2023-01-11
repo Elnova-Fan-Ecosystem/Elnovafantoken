@@ -20,4 +20,4 @@ If you find a bug, please open an issue and include as much information as possi
 
 ## Submitting a New Token
 We welcome new tokens that you have minted on the Redlight blockchain, please open an issue with a brief description of the token and any important information you want to share. 
-Join Elnova Ecosystem.
+Join Elnova Ecosystem. 
