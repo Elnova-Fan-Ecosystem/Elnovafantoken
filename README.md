@@ -38,4 +38,4 @@ This repository is intended for educational and testing purposes only. It is hig
 We welcome contributions to this repository. Before contributing, please refer to the `CONTRIBUTING.md` for instructions and guidelines.
 
 ## License
-This code is released under the MIT license. For more information, see the `LICENSE.md`.
+This code is released under the MIT license. For more information, see the `LICENSE.md`. 
