@@ -16,6 +16,24 @@ This repository contains the source code for the Elnova Fan Token, a decentraliz
 ## Usage
 This repository is intended for educational and testing purposes only. It is highly recommended to thoroughly test and review the code before using it in a production environment.
 
+## Token Detail
+- Token Name: Elnova Fan Token
+- Symbol: EFT 
+- Decimals: 18
+- Blockchain: Redlight Blockchain 
+- Project Website: https://elnovafan.ga/
+- Block Explorer: www.redlightscan.finance
+- Token Standard: ERC-20
+- Feature: Fungible, Mintable, Burnable, Pausable, Transferable, Gasless.
+- Contract Address: 0x03737b5Ce854EA927dbAfb5457819B64eA4c6619
+- Creator Address: 0x9dA1593a2231596F91C2B13e1c018B4cb9eb45dA
+- Access control: Ownable
+- License: MIT
+- Premint: 100 Million
+- Language: Solidity
+- Whitepaper: Coming Soon
+- E-mail: contact@elnovamail.ga
+
 ## Contributing
 We welcome contributions to this repository. Before contributing, please refer to the `CONTRIBUTING.md` for instructions and guidelines.
 
