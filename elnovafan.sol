@@ -31,3 +31,4 @@ contract ElnovaFanToken is ERC20, ERC20Burnable, Pausable, Ownable {
         super._beforeTokenTransfer(from, to, amount);
     }
 }
+
