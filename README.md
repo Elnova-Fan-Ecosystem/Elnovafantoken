@@ -32,7 +32,7 @@ This repository is intended for educational and testing purposes only. It is hig
 - Premint: 100 Million
 - Language: Solidity
 - Whitepaper: Coming Soon
-- E-mail: contact@elnovamail.ga
+- E-mail: contact@elnovafan.tech
 
 ## Contributing
 We welcome contributions to this repository. Before contributing, please refer to the `CONTRIBUTING.md` for instructions and guidelines.
