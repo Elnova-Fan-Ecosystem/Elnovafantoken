@@ -21,7 +21,7 @@ This repository is intended for educational and testing purposes only. It is hig
 - Symbol: EFT 
 - Decimals: 18
 - Blockchain: Redlight Blockchain 
-- Project Website: https://elnovafan.ga/
+- Project Website: https://elnovafan.tech/ 
 - Block Explorer: www.redlightscan.finance
 - Token Standard: ERC-20
 - Feature: Fungible, Mintable, Burnable, Pausable, Transferable, Gasless.
